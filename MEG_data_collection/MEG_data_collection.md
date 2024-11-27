@@ -6,28 +6,49 @@ tags: #tutorial, #data-acquisition
 # BEFORE PARTICIPANTS ARRIVE (30 mins before intake)
 ## Turning everything on (in order)
 - Remote control (for the projector) first
+
 ![turn on the projector](MEG_image/0_turn_on_projector.jpg)
 ![the projector](MEG_image/1_the_projector.jpg)
+
 - Exhaust fan off (light switch near helium refill room)
+
 ![exhaust fan off](MEG_image/2_exhaust_fan.jpg)
+
 - Magnetically shielded room lights (green button) -> It's possible to adjust the lights. We generally keep it in the middle when they're getting set up, but once the experiment starts, we dim it a bit
+
 ![MSR light](MEG_image/3_MSR_light.jpg)
+
 - Active shielding (black button w green dot, hold until green) - The same to turn it off- hold until light turns off
+
 ![active shielding](MEG_image/4_active_shielding.jpg)
 ![active shielding button](MEG_image/5_active_shieding_button.jpg)
+
 - The stimTracker is linked to the button box where the participants gives the answer - do not touch!
+
 ![stimTracker](MEG_image/6_stimtracker.jpg)
+
 - Check if the data transfer switch (green box) is turned to MAC (for the psychopy software) or to PC (for the Presentation software)
+
 ![data transfer switch](MEG_image/7_data_transfer_switch.jpg)
+
 - Turn media box on (black box w smooth button, press until hear turn on - turns on tv and mic)
+
 ![media box](MEG_image/8_media_box.jpg)
+
 - Trigger box on mac when using psychopy
+
 ![trigger box](MEG_image/9_trigger_box.jpg)
+
 - Make sure helium fill is off when we're recording - remember to turn it back on when we're done recording
+
 ![helium fill](MEG_image/10_helium_fill.jpg)
+
 - Turn on marker box in machine (big gray box w wires for each marker color)
+
 ![marker box](MEG_image/11_marker_box.jpg)
+
 - Open FastScanII in Jeff's office (turn on FastScan box, will hear chime when online)
+
 ![fastscan](MEG_image/12_fastscan.jpg)
 
 
@@ -131,6 +152,7 @@ head pillow goes in pillowcase, side pillows go in tissues
 - Start running Eyelink
 ### IS THE DOOR CLOSED?? CLOSE IT!! then, and ONLY then, lock it! Do this before starting acquisition
 Example on how to close the door properly (push the black button):
+
 ![seal the door](MEG_image/14_seal_door.jpg)
 
 ### Running a participant     
