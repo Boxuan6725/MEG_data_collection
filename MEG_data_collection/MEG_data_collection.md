@@ -1,6 +1,5 @@
 ---
-author: amilleah
-editors: boxuan, julia
+author: "amilleah, edited by: boxuan and julia"
 tags: #tutorial, #data-acquisition
 ---
 
