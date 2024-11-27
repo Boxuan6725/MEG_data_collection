@@ -1,6 +1,11 @@
+
 ---
-author: @amilleah, edited by: @boxuan and julia
+author: amilleah
+
+editors: boxuan and julia
+
 tags: #tutorial, #data-acquisition
+
 ---
 
 # BEFORE PARTICIPANTS ARRIVE (30 mins before intake)
